@@ -37,5 +37,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush2468&show_icons=true&locale=en&layout=compact" alt="dhanush2468" />
 <img src="https://tryhackme-badges.s3.amazonaws.com/Dhanush.Kumar.png" alt="TryHackMe">
 </p>
+
 <p><img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"></p>
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush2468&" alt="dhanush2468" /></p>
