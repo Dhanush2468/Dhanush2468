@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/whitedevil2468/](https://www.linkedin.com/in/whitedevil2468/)
 
-- 📝 My Profile [https://whitedevil24.netlify.app/](https://whitedevil24.netlify.app/)
+- 📝 My Profile [https://whitedevil2468.netlify.app/](https://whitedevil2468.netlify.app/)
 
 - 💬 Ask me about **react**
 
