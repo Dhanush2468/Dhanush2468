@@ -2,7 +2,7 @@
 ![logo](https://media.licdn.com/dms/image/C5616AQG46vuWSZvzbg/profile-displaybackgroundimage-shrink_350_1400/0/1662400002764?e=1679529600&v=beta&t=kaOe_MHYZCwNfld9b-QVSFhwjsuyvtdzXPd-pWBjalo)
 
 <h1 align="center">Hi 👋 , I'm Gollavilli Dhanush Kumar</h1>
-<h3 align="center">A passionate frontend developer And as pentester from India</h3>
+<h3 align="center">A passionate fullstack developer And as pentester from India</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/dfe8b75b-092a-4e3a-b212-6678e2077f17">
