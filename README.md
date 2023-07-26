@@ -14,9 +14,10 @@
 ╚███╔███╔╝██║  ██║██║   ██║   ███████╗███████╗███████╗██████╔╝███████╗ ╚████╔╝ ██║███████╗
  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚══════╝╚══════╝╚═════╝ ╚══════╝  ╚═══╝  ╚═╝╚══════╝
 </pre>
+<br />
+<hr />
 
-
-<img align="right" alt="coding" width="400" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/dfe8b75b-092a-4e3a-b212-6678e2077f17">
+<img align="right" alt="coding" width="300" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/dfe8b75b-092a-4e3a-b212-6678e2077f17">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush2468&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush2468" /> </p>
@@ -34,7 +35,7 @@
 - 📫 How to reach me **dhanushgollavilli02@gmail.com**
 
 - ⚡ Fun fact **I Think Iam Funny**
-<br />
+
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
