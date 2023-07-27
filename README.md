@@ -77,6 +77,7 @@
 <a target="blank"><img align="center" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/fffdab77-08e9-4d0f-ae40-05cf666d60ae" alt="dhanushg02" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/7706da78-c444-4149-83f2-1ac859f9ae0c" alt="dhanushg02" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/2a831cfd-673d-4955-b9ef-5636f74367d9" alt="dhanushg02" height="150" width="150" /></a> 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Dhanush.Kumar.png" alt="TryHackMe">
 <hr />
 <h3 align="center">CONTACT WITH ME</h3>
 <p align="left">
