@@ -25,8 +25,8 @@
 <p align="left"> <a href="https://twitter.com/dhanushg02" target="blank"><img src="https://img.shields.io/twitter/follow/dhanushg02?logo=twitter&style=for-the-badge" alt="dhanushg02" /></a> </p>
 
 - 🌱 I’m currently learning **courses**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/whitedevil2468/](https://www.linkedin.com/in/whitedevil2468/)
+  
+-  👨‍💻 All of my projects are available at : <a href="https://github.com/Dhanush2468">GITHUB</a>
 
 - 📝 My Profile [https://whitedevil2468.netlify.app/](https://whitedevil2468.netlify.app/)
 
