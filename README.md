@@ -41,7 +41,7 @@
 <pre>
  Experienced full stack developer at Wingify, specializing in ReactJS, NextJS, Python, JavaScript, and ThreeJS. 
  Proficient in integrating front-end and back-end technologies to build innovative web applications. 
- Hire me through Relevel: <a href="https://relevel.com/profile/u/gollavilli-dhanush-kumar!">HIRE-ME</a>
+ Hire me through Relevel: <a href="https://relevel.com/profile/u/gollavilli-dhanush-kumar">HIRE-ME</a>
 </pre>
 <hr />
 <h3 align="center">LANGUAGES AND TOOLS</h3>
