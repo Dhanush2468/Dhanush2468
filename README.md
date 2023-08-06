@@ -13,8 +13,10 @@
 
 
 
-
 <h1 align="center">Hi 👋 , I'm Gollavilli Dhanush Kumar</h1>
+
+<img align="right" alt="coding" width="300" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/65610b3c-16b3-4141-befc-cc1de0d1b0d7">
+
 <h3 align="center">A passionate fullstack developer And as pentester from India</h3>
 
 <pre align="center">
@@ -99,4 +101,9 @@
 <a href="https://linkedin.com/in/whitedevil2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whitedevil2468" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhanush-gollavilli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhanush-gollavilli" height="30" width="40" /></a>
 <hr />
+
 <img align="center" alt="coding" width="400" src="https://github-readme-stats.vercel.app/api?username=Dhanush2468&show_icons=true&theme=radical">
+<hr />
+<br />
+<img align="center" alt="coding" width="400" src="https://models.readyplayer.me/64cffa0ca959c17297c65a01.glb">
+
