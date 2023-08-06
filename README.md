@@ -1,5 +1,8 @@
 
 ![logo](https://jguni.in/images/full-stack-banner.jpg)
+<br />
+![Untitled-1 copy](https://github.com/Dhanush2468/Dhanush2468/assets/112778628/f32c9a04-f7b6-49f1-ad10-db450417bf3e)
+
 
 <img align="center" alt="coding" width="3500500" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/0b1df43a-2238-452e-a87c-3973aece4585">
 <h1 align="center">Hi 👋 , I'm Gollavilli Dhanush Kumar</h1>
