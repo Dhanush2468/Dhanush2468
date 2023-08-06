@@ -1,7 +1,7 @@
 
-![logo](https://jguni.in/images/full-stack-banner.jpg)
+![logo](https://jguni.in/images/full-stack-banner.jpg)<br />
 <br />
-![Untitled-1 copy](https://github.com/Dhanush2468/Dhanush2468/assets/112778628/f32c9a04-f7b6-49f1-ad10-db450417bf3e)
+![Untitled-1 copy](https://github.com/Dhanush2468/Dhanush2468/assets/112778628/f32c9a04-f7b6-49f1-ad10-db450417bf3e)<br />
 
 ![ezgif com-resize](https://github.com/Dhanush2468/Dhanush2468/assets/112778628/3697ab04-bc0c-4409-9772-38ea893ac632)
 
