@@ -106,5 +106,8 @@
 <img align="center" alt="coding" width="400" src="https://github-readme-stats.vercel.app/api?username=Dhanush2468&show_icons=true&theme=radical">
 <hr />
 <br />
-<img align="center" alt="coding" width="400" src="https://models.readyplayer.me/64cffa0ca959c17297c65a01.glb">
+
+<img align="center" alt="coding" width="30000" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/c50de141-21de-44fa-8518-d88f08e4e1c3">
+<img align="center" alt="coding" width="30000" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/c50de141-21de-44fa-8518-d88f08e4e1c3">
+
 
