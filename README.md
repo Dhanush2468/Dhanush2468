@@ -108,6 +108,6 @@
 <br />
 
 <img align="center" alt="coding" width="30000" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/c50de141-21de-44fa-8518-d88f08e4e1c3">
-<img align="center" alt="coding" width="30000" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/c50de141-21de-44fa-8518-d88f08e4e1c3">
+
 
 
