@@ -97,7 +97,6 @@
 
 <hr />
 <h3 align="center">CONTACT WITH ME</h3>
-<p align="left">
 <a href="https://twitter.com/dhanushg02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhanushg02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/whitedevil2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whitedevil2468" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhanush-gollavilli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhanush-gollavilli" height="30" width="40" /></a>
@@ -108,6 +107,3 @@
 <br />
 
 <img align="center" alt="coding" width="30000" src="https://github.com/Dhanush2468/my-room-gif/blob/main/Untitled.gif?raw=true">
-
-
-
