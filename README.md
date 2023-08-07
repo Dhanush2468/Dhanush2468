@@ -114,6 +114,7 @@
 
 <hr />
 <h3 align="center">CONTACT WITH ME</h3>
+<img align="right" alt="coding" width="300" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/dda33f8d-97cf-49dc-9bfe-273fb83e4154">
 <a href="https://twitter.com/dhanushg02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhanushg02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/whitedevil2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whitedevil2468" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhanush-gollavilli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhanush-gollavilli" height="30" width="40" /></a>
