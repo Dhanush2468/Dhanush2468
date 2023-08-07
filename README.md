@@ -15,7 +15,7 @@
 
 <h1 align="center">Hi 👋 , I'm Gollavilli Dhanush Kumar</h1>
 
-<img align="right" alt="coding" width="300" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/65610b3c-16b3-4141-befc-cc1de0d1b0d7">
+<img align="right" alt="coding" width="250" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/65610b3c-16b3-4141-befc-cc1de0d1b0d7">
 
 <img align="left" alt="coding" width="30" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/c8737cc0-4bb0-4294-ab88-b4c392f50564">
 <h3>A passionate fullstack developer And as pentester from India</h3>
