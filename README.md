@@ -75,7 +75,7 @@
 <h3 align="center">Implementation</h3>
 
 
-<img alt="coding" width="1500" height="490" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img alt="coding" width="1500" height="490" src="https://austinhenley.com/blog/images/coderibbon.gif">
 
 
 
