@@ -52,6 +52,9 @@
  Hire me through Relevel: <a href="https://relevel.com/profile/u/gollavilli-dhanush-kumar">HIRE-ME</a>
 </pre>
 <hr />
+## 🏆 GitHub Trophies
+<img  alt="coding" width="1800" src="https://github-profile-trophy.vercel.app/?username=Dhanush2468&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+<hr />
 <h3 align="center">LANGUAGES AND TOOLS</h3>
 <br />
 
