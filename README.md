@@ -6,10 +6,10 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+An+Indian;Computer+Engineering+Student;Indian+FullStack+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Indian full-stack developer, Power Metal lover"></a>
 </div>
-<img align="right" alt="coding" width="250" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/65610b3c-16b3-4141-befc-cc1de0d1b0d7">
+<img align="right" alt="coding" width="300"  height="220px" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/65610b3c-16b3-4141-befc-cc1de0d1b0d7">
 <h3>A passionate fullstack developer And as pentester from India</h3>
 
-<pre align="center">
+<pre width="600">
 
 ██╗    ██╗██╗  ██╗██╗████████╗███████╗                ██████╗ ███████╗██╗   ██╗██╗██╗     
 ██║    ██║██║  ██║██║╚══██╔══╝██╔════╝                ██╔══██╗██╔════╝██║   ██║██║██║     
