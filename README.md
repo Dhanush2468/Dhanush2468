@@ -86,6 +86,15 @@
 
 
 <hr />
+
+
+<h3 align="center">THREEJS</h3>
+<a href="https://threejs-journey.com/certificate/view/39739">
+    <img width="600000" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/37f24b13-49bf-4ace-8418-3d8a82e80b43">
+</a>
+
+<hr />
+
 <h3 align="center">CONTACT WITH ME</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/dda33f8d-97cf-49dc-9bfe-273fb83e4154">
 <a href="https://twitter.com/dhanushg02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhanushg02" height="30" width="40" /></a>
