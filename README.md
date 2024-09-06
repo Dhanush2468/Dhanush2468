@@ -7,8 +7,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+An+Indian;Computer+Engineering+Student;Indian+FullStack+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Indian full-stack developer, Power Metal lover"></a>
 </div>
 <h3>A passionate fullstack developer And as pentester from India</h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/W41T3XD3v1L.png" alt="TryHackMe">
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/W41T3XD3v1L.png" alt="TryHackMe">
 
 
 
