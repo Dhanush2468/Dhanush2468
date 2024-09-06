@@ -161,5 +161,3 @@
 <h3 align="center">ThankYou-For-Visiting-My-Profile</h3>
 
 <br />
-
-<img alt="coding" width="1500" height="500" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/e08ad3d1-c22a-48ee-8c4f-4650a8ea0519">
