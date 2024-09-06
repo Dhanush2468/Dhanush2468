@@ -8,8 +8,8 @@
 </div>
 <h3>A passionate fullstack developer And as pentester from India</h3>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/W41T3XD3v1L.png" alt="TryHackMe">
 
+![W41T3XD3v1L](https://github.com/user-attachments/assets/abca62f6-f11f-46eb-90f2-b1d81fc49170)
 
 
 
