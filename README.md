@@ -20,14 +20,19 @@
 <p align="left"> <a href="https://twitter.com/dhanushg02" target="blank"><img src="https://img.shields.io/twitter/follow/dhanushg02?logo=twitter&style=for-the-badge" alt="dhanushg02" /></a> </p>
 <p align="left">
 - 🌱 I’m currently Working At : <a href="https://tryhackme.com/r/p/W41T3XD3v1L">Tryhackme</a>
+</p>
 <p align="left">
 -  👨‍💻 All of my projects are available at : <a href="https://github.com/Dhanush2468">GITHUB</a>
+</p>
 <p align="left">
 - 📝 Visit My : <a href="https://gdk-dev-threejs.vercel.app">Portfolio</a>
+</p>
 <p align="left">
 - 💬 Ask me about : **React or Three And CyberStuff**
+</p>
 <p align="left">
 - 📫 How to reach me : <a href="https://www.linkedin.com/in/whitedevil2468/">Linkedin</a>
+</p>
 <p align="left">
 - ⚡ Fun fact : Creativity meets technology
 </p>
@@ -96,24 +101,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
-
-<br/>  
-<hr />
-<h3 align="center">BADGES</h3>
-<h3 align="left">AWS</h3>
-<p align="left">
-<a target="blank"><img align="center" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/1d03dc81-9a59-4402-ac8c-49f1a483070a" alt="dhanushg02" height="150" width="150" /></a>
-<a target="blank"><img align="center" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/49097ed9-abe2-42bb-8be7-fa2940bd0975" alt="dhanushg02" height="150" width="150" /></a>
-<br />
-<h3 align="left">MICROSOFT</h3>
-<a target="blank"><img align="center" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/ba82ace6-6626-4041-941d-3646270ac464" alt="dhanushg02" height="150" width="150" /></a>
-<br />
-<h3 align="left">CYBER-SECURITY</h3>
-<a target="blank"><img align="center" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/30484bba-c14d-4fbb-a3e6-daa80f69eeaa" alt="dhanushg02" height="150" width="150" /></a>
-<hr />
 <h3 align="center">TRY-HACKME</h3>
 <a target="blank"><img align="center" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/7b38f3fe-de24-4b04-8679-2e0d7339251f" alt="dhanushg02" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/369268e6-f411-4e27-b0cd-597c7774c138" alt="dhanushg02" height="150" width="150" /></a>
