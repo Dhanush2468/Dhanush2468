@@ -9,6 +9,7 @@
 <div align="center" >
 <h3>|-------A passionate fullstack developer and pentester from India ------|</h3>
 </div>
+<hr />
 <div align="center" >
 <img width="40" src="https://github.com/user-attachments/assets/fb0f610e-338b-4a01-a1b9-f05fdce05df6">---------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">---------<img  style="margin: 10px" align="center" src="https://github.com/user-attachments/assets/3012f4a2-93ce-48ae-9298-05e45a7a2336" alt="Badge">---------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">---------<img width="40" src="https://github.com/user-attachments/assets/fb0f610e-338b-4a01-a1b9-f05fdce05df6">
 <hr />
