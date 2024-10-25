@@ -1,14 +1,14 @@
-
-
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+An+Indian;Computer+Engineering+Student;Indian+FullStack+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Indian full-stack developer, Power Metal lover"></a>
 </div>
+
 <div align="center" >
 <h3>|-------A passionate fullstack developer and pentester from India ------|</h3>
 </div>
+
 <hr />
 <div align="center" >
 ---------<img width="40" src="https://github.com/user-attachments/assets/fb0f610e-338b-4a01-a1b9-f05fdce05df6">---------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">---------<img  style="margin: 10px" align="center" src="https://github.com/user-attachments/assets/3012f4a2-93ce-48ae-9298-05e45a7a2336" alt="Badge">---------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">---------<img width="40" src="https://github.com/user-attachments/assets/fb0f610e-338b-4a01-a1b9-f05fdce05df6">--------
@@ -48,13 +48,8 @@
 <br />
 <img  alt="coding" width="1800" src="https://github-profile-trophy.vercel.app/?username=Dhanush2468&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 <hr />
-<h3 align="center">LANGUAGES AND TOOLS</h3>
-<br />
-
-## My Skill Set  
+<h3 align="center">My Skill Set AND TOOLS</h3>
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -96,12 +91,17 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh_hhAnzGflA4wzF5AvspD8oZRxUAPuGJEdQ&s" alt="Docker" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<h3 align="center">TRY-HACKME</h3>
+<hr />
+
+<div align="center">
+<h3 align="center">🏅 TryHackMe Badges</h3>
+<br />
 <a target="blank"><img align="center" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/7b38f3fe-de24-4b04-8679-2e0d7339251f" alt="dhanushg02" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/369268e6-f411-4e27-b0cd-597c7774c138" alt="dhanushg02" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/ee179fa8-59fd-4292-bd14-ad48b6e88462" alt="dhanushg02" height="150" width="150" /></a>
@@ -117,28 +117,25 @@
 <a target="blank"><img align="center" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/fffdab77-08e9-4d0f-ae40-05cf666d60ae" alt="dhanushg02" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/7706da78-c444-4149-83f2-1ac859f9ae0c" alt="dhanushg02" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/2a831cfd-673d-4955-b9ef-5636f74367d9" alt="dhanushg02" height="150" width="150" /></a> 
-
-
-
-<hr />
-
-
-<h3 align="center">THREEJS</h3>
-<a href="https://threejs-journey.com/certificate/view/39739">
-    <img width="600000" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/37f24b13-49bf-4ace-8418-3d8a82e80b43">
-</a>
+<!-- Add more badges as needed -->
+</div>
 
 <hr />
 
-<h3 align="center">CONTACT WITH ME</h3>
-<img align="right" alt="coding" width="300" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/dda33f8d-97cf-49dc-9bfe-273fb83e4154">
-<a href="https://twitter.com/dhanushg02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhanushg02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/whitedevil2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whitedevil2468" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhanush-gollavilli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhanush-gollavilli" height="30" width="40" /></a>
+<div align="center">
+<p>
+  <h3 align="center">🔗 Connect with Me</h3>
+  <a href="https://www.linkedin.com/in/whitedevil2468/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/DhanushG02" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://github.com/Dhanush2468" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://gdk-dev-threejs.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio" /></a>
+</p>
+</div>
 <hr />
+<div align="center">
+    <h3 align="center">📊 GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=Dhanush2468&show_icons=true&theme=radical" alt="Dhanush's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush2468&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-<img align="center" alt="coding" width="400" src="https://github-readme-stats.vercel.app/api?username=Dhanush2468&show_icons=true&theme=radical">
 <hr />
-<h3 align="center">ThankYou-For-Visiting-My-Profile</h3>
-
-<br />
