@@ -23,7 +23,7 @@
 <p align="left">
 -  👨‍💻 All of my projects are available at : <a href="https://github.com/Dhanush2468">GITHUB</a>
 <p align="left">
-- 📝 My Profile [https://whitedevil2468.netlify.app/](https://whitedevil2468.netlify.app/)
+- 📝 My <a href="https://gdk-dev-threejs.vercel.app">Profile</a>
 <p align="left">
 - 💬 Ask me about **react**
 <p align="left">
