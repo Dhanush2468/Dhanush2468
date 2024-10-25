@@ -6,19 +6,20 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+An+Indian;Computer+Engineering+Student;Indian+FullStack+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Indian full-stack developer, Power Metal lover"></a>
 </div>
-<h3>A passionate fullstack developer And as pentester from India</h3>
+<div align="center" >
+<h3>A passionate fullstack developer and pentester from India --------------|</h3>
+   
+</div>
+ <div>
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+</div>
 
-
-![W41T3XD3v1L](https://github.com/user-attachments/assets/abca62f6-f11f-46eb-90f2-b1d81fc49170)
-
-
-
-    
-
-<br />
+<div align="center" >
+<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">--------------<img  style="margin: 10px" align="center" src="https://tryhackme-badges.s3.amazonaws.com/W41T3XD3v1L.png" alt="Your Image Badge">----------------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">----------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">
 <hr />
-
 <img align="right" alt="coding" width="300" src="https://github.com/Dhanush2468/Dhanush2468/assets/112778628/dfe8b75b-092a-4e3a-b212-6678e2077f17">
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush2468&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush2468" /> </p>
