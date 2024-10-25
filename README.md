@@ -19,19 +19,20 @@
 
 <p align="left"> <a href="https://twitter.com/dhanushg02" target="blank"><img src="https://img.shields.io/twitter/follow/dhanushg02?logo=twitter&style=for-the-badge" alt="dhanushg02" /></a> </p>
 <p align="left">
-- 🌱 I’m currently learning **courses**
+- 🌱 I’m currently Working At : <a href="https://tryhackme.com/r/p/W41T3XD3v1L">Tryhackme</a>
 <p align="left">
 -  👨‍💻 All of my projects are available at : <a href="https://github.com/Dhanush2468">GITHUB</a>
 <p align="left">
-- 📝 My <a href="https://gdk-dev-threejs.vercel.app">Profile</a>
+- 📝 Visit My : <a href="https://gdk-dev-threejs.vercel.app">Portfolio</a>
 <p align="left">
-- 💬 Ask me about **react**
+- 💬 Ask me about : **React or Three And CyberStuff**
 <p align="left">
-- 📫 How to reach me **dhanushgollavilli02@gmail.com**
+- 📫 How to reach me : <a href="https://www.linkedin.com/in/whitedevil2468/">Linkedin</a>
 <p align="left">
-- ⚡ Fun fact **I Think Iam Funny**
+- ⚡ Fun fact : Creativity meets technology
 </p>
 <hr />
+
 <pre>
  Experienced full stack developer at Wingify, specializing in ReactJS, NextJS, Python, JavaScript, and ThreeJS. 
  Proficient in integrating front-end and back-end technologies to build innovative web applications. 
