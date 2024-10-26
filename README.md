@@ -92,7 +92,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh_hhAnzGflA4wzF5AvspD8oZRxUAPuGJEdQ&s" alt="Docker" height="50" />  
 </div>
 
 </td></tr></table>
@@ -128,7 +127,7 @@
   <a href="https://www.linkedin.com/in/whitedevil2468/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/DhanushG02" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://github.com/Dhanush2468" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://gdk-dev-threejs.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://gdk-dev-threejs.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=weblate&logoColor=white" alt="Portfolio" /></a>
 </p>
 </div>
 <hr />
